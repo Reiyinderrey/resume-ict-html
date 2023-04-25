@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Rhain Andrei F. Maglaque </title>
+</head>
+<body>
+<image src="https://www.kawalingpinoy.com/wp-content/uploads/2014/09/pork-nilaga-4-
+768x1024.jpg" alt="image">
+<h1> Nilagang baboy </h1>
+<h2> <i> Nilagang Baboy also known as Boiled pork is a Filipino recipe consuming boiled soup, pork,
+squash, and cabbage. </i> </h2>
+<h3> <b>Nilagang baboy</b> vs. Boiled Pork Belly: </h3>
+<p><b>Nilagang Baboy</b> is known as a Filipino Recipe while Boiled pork belly is considred as a
+Taiwanese recipe. <b> Nilagang Baboy's</b> main ingredients are boiled tender porks. Boiled pork belly
+on the other hand uses boneless and skinless pork belly and is also known for its spice taste from the
+Jalapeno </p>
+<h3 style="color:#FF0000"> Nilagang baboy with corn </h3>
+<p> This version of boiled pork comes together with corn to add sweetness to the soup.</p>
+<h3 style="color:#FF0000"> Pork spare ribs </h3>
+<p> This version of boiled pork is composed of less-bones and ingredients with cheaper price. This
+recipe aims to achieve a flavorful and soft broth. </p>
+<h3 style="color:#FF0000"> Pork ribs and vegetable soup </h3>
+<p> This version of boiled pork is served with a mixture of fish sauce and calamansi juice, this recipe is
+said to be best enjoyed with rice. </p>
+<hr>
+<h3> Nilagang Baboy </h3>
+<p> <b>Nilagang Baboy</b> is a Filipino-style boiled soup made of fork-tender pork belly, kalabasa, and
+pechay. It’s delicious, filling, and perfect for cold weather. </p>
+
+<p> Course type: Main entree, soup</p>
+
+
+<p> Cuisine: Filipino cuisine</p>
+<p> Keyword: <b> Nilagang baboy, </b>Boiled pork belly, Boiled pork, Nilaga</p>
+<p> Prep time: 15 minutes</p>
+<p> Cook time: 1 hour 45 minutes</p>
+<p> Total time: 1 hour 45 minutes</p>
+<p> Serving: 4 servings</p>
+<p> Calories: 868kcal</p>
+<p> Author: Rhain Andrei F. Maglaque </p>
+<p>
+
+<h4> <b> Ingredients </b> </h4>
+<ul>
+<li> 2 pounds pork belly, cut into 2 1/2 inch cubes </li>
+<li> 8 cups water </li>
+<li> 1 medium onion, peeled and quartered </li>
+<li> 1/2 teaspoon peppercorns, cracked </li>
+<li> 1 tablespoon fish sauce</li>
+<li> 1 small calabasa, peeled, seeded and cut into 2-inch chunks </li>
+<li>2 bunches pechay, ends trimmed and leaves separated </li>
+<li> Salt </li>
+</ul>
+
+<h4> <b> Instructions </b> </h4>
+<ol>
+<li> In a pot over medium heat, combine pork and water. Bring to a boil, skimming scum that floats on
+top. </li>
+<li> When the liquid has cleared, add onions, peppercorns, and fish sauce. Continue to boil for about 1
+to 2 minutes. </li>
+
+
+<li> Lower heat, cover and cook for about 40 to 45 minutes or until pork is tender. Add more water in
+1/2 cup increments as needed to maintain about 6 to 7 cups. </li>
+<li> Add calabasa and cook for about 5 to 7 minutes or until tender yet firm. </li>
+<li> Add napa cabbage or pechay and cook for about 1 minute or until tender yet crisp. </li>
+<li> Season with salt to taste. Serve hot. </li>
+</ol>
+</p>
+</body>
+<hr>
+<blockquote> Rhain Andrei F. Maglaque </blockquote>
+</body>
+</html>
